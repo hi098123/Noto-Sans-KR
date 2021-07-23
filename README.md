@@ -12,6 +12,9 @@ IE hack @font-face, IE unicode-range not work..
 
 # Google to jsDelivr
 I think jsDelivr is better than google cdn
+```html
+<link href="https://cdn.jsdelivr.net/gh/hi098123/Noto-Sans-KR@1.0/300/swap/font.min.css" rel="stylesheet">
+```
 
 ## Google fonts to other CDN
 https://github.com/hi098123/Get-Google-Fonts
