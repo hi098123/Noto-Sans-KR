@@ -1,6 +1,8 @@
 # Noto-Sans-KR
 Google Font (https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap)
 
+License : https://fonts.google.com/specimen/Noto+Sans+KR#license
+
 # unicode-range
 caniuse : https://caniuse.com/?search=unicode-range
 
