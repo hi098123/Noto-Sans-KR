@@ -10,5 +10,8 @@ IE9+ but IE download all unicode-range
 
 IE hack @font-face, IE unicode-range not work..
 
-# jsDelivr
+# Google to jsDelivr
 I think jsDelivr is better than google cdn
+
+## Google fonts to other CDN
+https://github.com/hi098123/Get-Google-Fonts
